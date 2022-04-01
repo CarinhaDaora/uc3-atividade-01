@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: yellow;
+    font-family: monospace;
+    
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    border-bottom: solid 5px red
+
+}
+h1{
+    font-size: 25px;
+}
+li{
+    font-size:20px;
+}
+
